@@ -1,0 +1,1338 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:2:1-711:12
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:2:1-711:12
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:2:1-711:12
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:2:1-711:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a6a9e09679f15e7de7f2550a90258e3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dfa783c9865867c367ab7b3993949ed4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1d75ebe1d813e058cb536f2e6c80bbc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\96a8baa4d433ab691cbabfee61c50e4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0fa2d4296d3745e515e3eae4d71e939f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5380f098580c34c97657e7f3f6ae4a0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b6e68f66d460d36905d09af695e92f80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f4a9011796157a77ad75111d83d2c98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b7afa9f42c8a605a67a67406ade1f2d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8cbdc3339804a87e4a5e6e8e65dd1b6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\778e9b5bb9fe18d0f7bfd0d5d91bd857\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6e4416efeb6a47ba37121b9de8b582a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\137e75d5ba386b6b113f69b6cbc85f15\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\29dfde43fba9bf3db47e708d186922ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d187e1602f62a10f9d1f5d35b3ec1d07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ad48a6e6e4485e493c3baa7391400c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ef0c7401ba5093d40663d4447fd0632a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\59bd445b7efe64f8ea1c7c75b90f03bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a632f3fce4557175db0eef13b0f75e2d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff96f6e2e5a8bab259119c8ddfd0147a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\383aeafc24cf380c7912cd2e7f192d72\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\295566637f9a30017008c4d447e2867e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc913bc9193cedb726a3c6fb3f9d39c0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:2:1-711:12
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:2:1-711:12
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:2:1-711:12
+	package
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:3:5-21
+		INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:6:5-31
+		INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:4:5-43
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:14:22-69
+uses-permission#android.permission.VIBRATE
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.INTERNET
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:23:5-69
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:23:22-66
+uses-permission#android.permission.CAMERA
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:25:22-78
+uses-feature#android.hardware.camera
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:27:5-60
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:27:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:28:5-70
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:28:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:30:5-69
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:30:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:31:22-65
+application
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:33:5-709:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\137e75d5ba386b6b113f69b6cbc85f15\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\137e75d5ba386b6b113f69b6cbc85f15\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:35:9-41
+	android:persistent
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:36:9-34
+	android:icon
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:34:9-38
+	android:theme
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:37:9-40
+activity#com.fc.activity.load.LoadingActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:38:9-48:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:41:13-45
+	android:icon
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:40:13-42
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:39:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.fc.activity.util.DataFilterActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:49:9-51:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:51:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:50:13-67
+activity#com.fc.activity.util.ImgPz
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:53:13-54
+activity#com.fc.activity.util.ImgChoose
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:55:9-57:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:56:13-58
+activity#com.fc.activity.util.ImagePagerActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:58:9-60:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:59:13-67
+activity#com.fc.activity.util.ImgChoosePage
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:61:9-63:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:62:13-62
+activity#com.fc.activity.login.LoginActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:64:9-67:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:67:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:66:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:65:13-63
+activity#com.fc.activity.esp.MainMenuActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:68:9-71:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:71:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:69:13-64
+activity#com.fc.activity.esp.InformationReceivinglist
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:72:9-75:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:75:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:74:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:73:13-72
+activity#com.fc.activity.esp.InformationReceivinglist_Dzqd
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:76:9-79:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:79:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:77:13-77
+activity#com.fc.activity.esp.InformationReceivingActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:80:9-83:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:83:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:81:13-76
+activity#com.fc.activity.esp.InformationReceivingActivity_Dzqd
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:84:9-87:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:87:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:86:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:85:13-81
+activity#com.fc.activity.esp.ArrivalConfirmationActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:88:9-91:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:91:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:90:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:89:13-75
+activity#com.fc.activity.esp.BaiDuGpsActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:92:9-95:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:95:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:94:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:93:13-64
+activity#com.fc.activity.esp.ServiceReportslist
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:96:9-99:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:99:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:98:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:97:13-66
+activity#com.fc.activity.esp.ServiceReportsComplete
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:100:9-103:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:103:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:101:13-70
+activity#com.fc.activity.esp.ServiceReportsAppraiseActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:104:9-107:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:107:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:106:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:105:13-78
+activity#com.fc.activity.esp.ZZServiceReportslist
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:108:9-111:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:111:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:109:13-68
+activity#com.fc.activity.esp.BusinessAcceptanceSure
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:112:9-115:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:115:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:114:13-74
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:113:13-70
+activity#com.fc.activity.esp.PGDCaseActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:116:9-119:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:119:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:118:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:117:13-63
+activity#com.fc.activity.js.FyqrActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:120:9-123:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:123:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:121:13-59
+activity#com.fc.activity.esp.PGDquerychooseActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:124:9-127:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:127:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:126:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:125:13-70
+activity#com.fc.activity.esp.PGDqueryActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:128:9-131:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:131:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:130:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:129:13-64
+activity#com.fc.activity.js.FyqrCompleteActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:132:9-135:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:135:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:133:13-67
+activity#com.fc.activity.w.ChangePasswordActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:136:9-139:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:139:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:138:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:137:13-68
+activity#com.fc.activity.esp.ChooseXQ
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:140:9-142:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:142:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:141:13-56
+activity#com.fc.activity.esp.ChooseFBF
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:143:9-145:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:145:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:144:13-57
+activity#com.fc.activity.esp.ChooseSblx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:146:9-148:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:148:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:147:13-58
+activity#com.fc.activity.esp.ChooseSb
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:149:9-151:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:151:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:150:13-56
+activity#com.fc.activity.esp.ChooseFylx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:152:9-154:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:154:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:153:13-58
+activity#com.fc.activity.esp.ChooseKhwd
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:155:9-157:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:157:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:156:13-58
+activity#com.fc.activity.esp.ChooseSssqx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:158:9-160:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:160:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:159:13-59
+activity#com.fc.activity.esp.AddPartsAdd
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:161:9-163:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:163:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:162:13-59
+activity#com.fc.activity.esp.ChoosePjlx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:164:9-166:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:166:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:165:13-58
+activity#com.fc.activity.esp.AddParts
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:167:9-170:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:170:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:169:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:168:13-56
+activity#com.fc.activity.js.YingShouKuanList
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:171:9-174:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:174:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:173:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:172:13-63
+activity#com.fc.activity.js.LiuShuiZhanglist
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:175:9-178:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:178:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:177:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:176:13-63
+activity#com.fc.activity.js.LiuShuiZhangActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:179:9-182:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:182:13-49
+	android:launchMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:181:13-44
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:180:13-67
+activity#com.fc.activity.esp.YytReportedActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:183:9-185:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:185:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:184:13-67
+activity#com.fc.activity.esp.TimeYuyuelist
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:186:9-188:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:188:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:187:13-61
+activity#com.fc.activity.esp.TimeYuyueActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:189:9-191:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:191:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:190:13-65
+activity#com.fc.activity.esp.DispatchingInformationReceivingActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:192:9-194:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:194:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:193:13-87
+activity#com.fc.activity.esp.DispatchingInformationConfirmActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:195:9-197:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:197:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:196:13-85
+activity#com.fc.activity.esp.ShowGpsActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:199:9-201:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:201:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:200:13-63
+activity#com.fc.activity.esp.ServiceReportsConfirmActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:203:9-205:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:205:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:204:13-77
+activity#com.fc.activity.esp.ChooseYYT
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:208:9-210:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:210:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:209:13-57
+activity#com.fc.activity.esp.ServiceReportsAppraise
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:212:9-214:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:214:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:213:13-70
+activity#com.fc.activity.esp.SheBeiPDActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:216:9-218:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:218:13-49
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:217:13-64
+activity#com.fc.activity.esp.NotificationOrderActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:219:9-222:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:222:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:221:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:220:13-73
+activity#com.fc.activity.esp.NotificationOrderList
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:223:9-226:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:226:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:225:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:224:13-69
+activity#com.fc.activity.esp.ChooseAZXQ
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:227:9-230:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:230:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:229:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:228:13-58
+activity#com.fc.activity.esp.BusinessQueryList
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:232:9-235:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:235:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:234:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:233:13-65
+activity#com.fc.activity.esp.BusinessQueryActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:236:9-239:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:239:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:238:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:237:13-69
+activity#com.fc.activity.esp.SingleInActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:240:9-243:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:243:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:242:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:241:13-64
+activity#com.fc.activity.register.RegisterActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:244:9-247:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:247:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:246:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:245:13-69
+activity#com.fc.activity.register.RegisterConfirmActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:248:9-251:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:251:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:250:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:249:13-76
+activity#com.fc.activity.register.RegisterAgreeActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:252:9-255:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:255:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:254:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:253:13-74
+activity#com.fc.activity.register.RegisterCompleteActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:256:9-259:52
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:259:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:258:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:257:13-77
+activity#com.fc.activity.esp.RyxxActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:260:9-264:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:263:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:262:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:261:13-60
+activity#com.fc.activity.w.QyxxActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:265:9-269:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:268:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:267:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:266:13-58
+activity#com.fc.activity.esp.JbxxActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:270:9-274:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:273:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:272:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:271:13-60
+activity#com.fc.activity.w.YhkxxActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:275:9-279:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:278:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:277:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:276:13-59
+activity#com.fc.activity.w.YHKInfoActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:280:9-285:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:283:13-49
+	android:windowSoftInputMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:284:13-72
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:282:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:281:13-61
+activity#com.fc.activity.w.XxglActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:286:9-290:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:289:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:288:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:287:13-58
+activity#com.fc.activity.w.XxglShowActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:291:9-295:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:294:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:293:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:292:13-62
+activity#com.fc.activity.esp.InformationReceivingRefuseList
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:296:9-300:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:299:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:298:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:297:13-78
+activity#com.fc.activity.esp.InformationReceivingRefuseActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:301:9-305:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:304:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:303:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:302:13-82
+activity#com.fc.activity.esp.ChooseActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:307:9-311:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:310:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:309:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:308:13-62
+activity#com.fc.activity.kc.HpzhActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:313:9-317:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:316:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:315:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:314:13-59
+activity#com.fc.activity.kc.HpzhMxActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:318:9-322:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:321:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:320:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:319:13-61
+activity#com.fc.activity.kc.KccxChooseActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:323:9-327:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:326:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:325:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:324:13-65
+activity#com.fc.activity.kc.KccxActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:328:8-332:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:331:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:330:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:329:13-59
+activity#com.fc.activity.kc.ThcxShowActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:333:9-337:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:336:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:335:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:334:13-63
+activity#com.fc.activity.kc.KcpdActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:338:9-342:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:341:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:340:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:339:13-59
+activity#com.fc.activity.kc.WbdbrkListActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:343:9-347:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:346:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:345:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:344:13-65
+activity#com.fc.activity.kc.WbdbrkActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:348:9-352:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:351:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:350:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:349:13-61
+activity#com.fc.activity.kc.KcxxActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:353:10-357:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:356:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:355:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:354:13-59
+activity#com.fc.activity.kc.KcxxShowActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:358:10-362:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:361:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:360:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:359:13-63
+activity#com.fc.activity.kc.SqdcxkListActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:363:9-367:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:366:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:365:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:364:13-65
+activity#com.fc.activity.kc.SqdShowActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:368:9-372:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:371:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:370:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:369:13-62
+activity#com.fc.activity.kc.KccxShowActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:374:9-378:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:377:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:376:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:375:13-63
+activity#com.fc.activity.w.YHKMbActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:379:9-383:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:382:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:381:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:380:13-59
+activity#com.fc.activity.kc.WbdbckActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:384:9-388:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:387:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:386:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:385:13-61
+activity#com.fc.activity.kc.SqdActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:390:9-394:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:393:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:392:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:391:13-58
+activity#com.fc.activity.kc.SqdMxActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:395:9-399:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:398:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:397:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:396:13-60
+activity#com.fc.activity.kc.WbdbckMxActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:401:9-405:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:404:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:403:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:402:13-63
+activity#com.fc.activity.kc.PjfkMxActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:406:10-410:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:409:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:408:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:407:13-61
+activity#com.fc.activity.main.MainActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:411:9-415:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:414:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:413:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:412:13-61
+activity#com.fc.activity.kdg.ListKdg
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:416:9-420:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:419:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:418:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:417:13-55
+activity#com.fc.activity.kdg.JdxyKdg
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:421:9-425:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:424:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:423:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:422:13-55
+activity#com.fc.activity.kdg.SmdwKdgWx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:426:9-430:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:429:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:428:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:427:13-57
+activity#com.fc.activity.kdg.FwbgKdgWx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:431:9-435:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:434:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:433:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:432:13-57
+activity#com.fc.activity.kdg.JdxyKdgWx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:436:9-440:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:439:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:438:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:437:13-57
+activity#com.fc.activity.kdg.FwbgKdg
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:441:9-445:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:444:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:443:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:442:13-55
+activity#com.fc.activity.kdg.FwbgXgKdg
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:446:9-450:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:449:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:448:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:447:13-57
+activity#com.fc.activity.kdg.SmdwKdg
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:451:9-455:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:454:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:453:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:452:13-55
+activity#com.fc.activity.kdg.JqgdcxKdg
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:456:9-460:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:459:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:458:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:457:13-57
+activity#com.fc.activity.kdg.JqgdcxShowKdg
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:461:9-465:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:464:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:463:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:462:13-61
+activity#com.fc.activity.kdg.SbxxlrKdg
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:466:9-470:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:469:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:468:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:467:13-57
+activity#com.fc.activity.kdg.JdxyXj
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:471:9-475:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:474:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:473:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:472:13-54
+activity#com.fc.activity.kdg.SmdwXj
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:476:9-480:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:479:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:478:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:477:13-54
+activity#com.fc.activity.kdg.ZzzpKdgWx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:481:9-485:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:484:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:483:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:482:13-57
+activity#com.fc.activity.kdg.FwbgXgKdgWx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:486:9-490:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:489:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:488:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:487:13-59
+activity#com.fc.activity.kdg.FwbgXj
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:491:9-495:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:494:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:493:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:492:13-54
+activity#com.fc.activity.kdg.FwbgXgXj
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:496:9-500:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:499:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:498:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:497:13-56
+activity#com.fc.activity.kdg.SelectZfg
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:501:9-505:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:504:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:503:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:502:13-57
+activity#com.fc.activity.kdg.DhjcKdg
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:506:9-510:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:509:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:508:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:507:13-55
+activity#com.fc.activity.kdg.ZcdjQuery
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:513:10-517:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:516:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:515:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:514:13-57
+activity#com.fc.activity.kdg.ZcdjList
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:518:10-522:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:521:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:520:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:519:13-56
+activity#com.fc.activity.kdg.ZcdjSbList
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:523:10-527:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:526:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:525:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:524:13-58
+activity#com.fc.activity.kdg.ZcdjInfo
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:528:10-532:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:531:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:530:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:529:13-56
+activity#com.fc.activity.kdg.SbxxpdActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:534:9-538:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:537:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:536:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:535:13-62
+activity#com.fc.activity.kdg.XddwJd
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:539:9-543:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:542:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:541:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:540:13-54
+activity#com.fc.activity.esp.XjListActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:544:9-548:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:547:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:546:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:545:13-62
+activity#com.fc.activity.esp.XjShowActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:549:9-553:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:552:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:551:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:550:13-62
+activity#com.fc.activity.w.Fwzxscx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:554:9-558:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:557:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:556:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:555:13-53
+activity#com.fc.activity.w.FwzxscxList
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:559:9-563:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:562:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:561:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:560:13-57
+activity#com.fc.activity.w.FwzxscxShow
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:566:9-570:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:569:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:568:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:567:13-57
+activity#com.fc.activity.w.SetParams
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:571:9-575:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:574:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:573:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:572:13-55
+activity#com.fc.activity.w.GzpActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:576:9-580:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:579:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:578:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:577:13-57
+activity#com.fc.activity.kdg.ScsbbActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:581:9-585:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:584:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:583:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:582:13-61
+activity#com.fc.activity.kdg.Xddwcx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:586:9-590:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:589:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:588:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:587:13-54
+activity#com.fc.activity.kdg.Zzpqgdcx
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:591:9-595:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:594:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:593:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:592:13-56
+activity#com.fc.activity.kdg.XddwList
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:596:9-600:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:599:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:598:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:597:13-56
+activity#com.fc.activity.w.GzpLrActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:601:9-605:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:604:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:603:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:602:13-59
+activity#com.fc.activity.w.HelpActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:606:9-610:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:609:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:608:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:607:13-58
+activity#com.fc.activity.w.JszlActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:611:9-615:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:614:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:613:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:612:13-58
+activity#com.fc.activity.w.GlzdActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:616:9-620:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:619:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:618:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:617:13-58
+activity#com.fc.activity.w.CjwtActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:621:9-625:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:624:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:623:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:622:13-58
+activity#com.fc.activity.w.LyActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:626:9-630:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:629:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:628:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:627:13-56
+activity#com.fc.activity.w.CjwtShowActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:631:9-635:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:634:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:633:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:632:13-62
+activity#com.fc.activity.w.LyaddActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:636:9-640:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:639:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:638:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:637:13-59
+activity#com.fc.activity.w.LyqueryActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:641:9-645:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:644:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:643:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:642:13-61
+activity#com.fc.activity.w.GlzdShowActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:646:9-650:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:649:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:648:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:647:13-62
+activity#com.fc.activity.w.Pqzgjk
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:651:9-655:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:654:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:653:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:652:13-52
+activity#com.fc.activity.w.Pqzgjsl
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:656:9-660:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:659:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:658:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:657:13-53
+activity#com.fc.activity.w.PqzgjslShow
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:661:9-665:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:664:13-49
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:663:13-63
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:662:13-57
+activity#com.fc.zxing.CaptureActivity
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:666:9-672:20
+	android:screenOrientation
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:669:13-50
+	android:windowSoftInputMode
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:671:13-60
+	android:configChanges
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:668:13-63
+	android:theme
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:670:13-71
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:667:13-56
+service#com.fc.service.PatrolService
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:674:9-64
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:674:18-61
+service#com.fc.service.CsyyService
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:675:9-62
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:675:18-59
+service#com.fc.service.NumberService
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:676:9-64
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:676:18-61
+service#com.baidu.location.f
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:677:9-681:19
+	android:process
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:680:13-38
+	android:enabled
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:679:13-35
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:678:13-48
+receiver#com.fc.service.MyBroadcastReceiver
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:683:9-691:20
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:683:19-68
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+category:name:android.intent.category.DEFAULT
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:684:13-690:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:685:17-686:26
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:685:25-76
+category#android.intent.category.DEFAULT
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:688:17-689:28
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:688:27-73
+provider#android.support.v4.content.FileProvider
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:701:9-707:20
+	android:grantUriPermissions
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:704:13-47
+	android:authorities
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:702:13-54
+	android:exported
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:703:13-37
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:701:19-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:705:13-706:54
+	android:resource
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:706:17-51
+	android:name
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml:705:24-74
+uses-sdk
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a6a9e09679f15e7de7f2550a90258e3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a6a9e09679f15e7de7f2550a90258e3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dfa783c9865867c367ab7b3993949ed4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dfa783c9865867c367ab7b3993949ed4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1d75ebe1d813e058cb536f2e6c80bbc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1d75ebe1d813e058cb536f2e6c80bbc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\96a8baa4d433ab691cbabfee61c50e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\96a8baa4d433ab691cbabfee61c50e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0fa2d4296d3745e515e3eae4d71e939f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0fa2d4296d3745e515e3eae4d71e939f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5380f098580c34c97657e7f3f6ae4a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5380f098580c34c97657e7f3f6ae4a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b6e68f66d460d36905d09af695e92f80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b6e68f66d460d36905d09af695e92f80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f4a9011796157a77ad75111d83d2c98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f4a9011796157a77ad75111d83d2c98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b7afa9f42c8a605a67a67406ade1f2d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b7afa9f42c8a605a67a67406ade1f2d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8cbdc3339804a87e4a5e6e8e65dd1b6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8cbdc3339804a87e4a5e6e8e65dd1b6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\778e9b5bb9fe18d0f7bfd0d5d91bd857\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\778e9b5bb9fe18d0f7bfd0d5d91bd857\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6e4416efeb6a47ba37121b9de8b582a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6e4416efeb6a47ba37121b9de8b582a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\137e75d5ba386b6b113f69b6cbc85f15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\137e75d5ba386b6b113f69b6cbc85f15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\29dfde43fba9bf3db47e708d186922ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\29dfde43fba9bf3db47e708d186922ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d187e1602f62a10f9d1f5d35b3ec1d07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d187e1602f62a10f9d1f5d35b3ec1d07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ad48a6e6e4485e493c3baa7391400c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ad48a6e6e4485e493c3baa7391400c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ef0c7401ba5093d40663d4447fd0632a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ef0c7401ba5093d40663d4447fd0632a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\59bd445b7efe64f8ea1c7c75b90f03bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\59bd445b7efe64f8ea1c7c75b90f03bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a632f3fce4557175db0eef13b0f75e2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a632f3fce4557175db0eef13b0f75e2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff96f6e2e5a8bab259119c8ddfd0147a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff96f6e2e5a8bab259119c8ddfd0147a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\383aeafc24cf380c7912cd2e7f192d72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\383aeafc24cf380c7912cd2e7f192d72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\295566637f9a30017008c4d447e2867e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\295566637f9a30017008c4d447e2867e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc913bc9193cedb726a3c6fb3f9d39c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc913bc9193cedb726a3c6fb3f9d39c0\AndroidManifest.xml:20:5-44
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+		ADDED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml
+		INJECTED from D:\application\Android\workspace\kdgfc\app\src\main\AndroidManifest.xml

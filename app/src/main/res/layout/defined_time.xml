@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/LLspinner"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/spconent"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white" >
+
+        <RelativeLayout
+            android:id="@+id/RLtitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dlg_title"
+            android:gravity="center_vertical" >
+
+            <Button
+                android:id="@+id/dlg_confirmb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/dlg_sure" />
+
+            <Button
+                android:id="@+id/dlg_cancelb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/dlg_cancel" />
+
+            <TextView
+                android:id="@+id/dlg_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="6dp"
+                android:textColor="@android:color/black"
+                android:textSize="20.0sp"
+                tools:ignore="SelectableText" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/RLtitle"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:text="起始时间:"
+            android:textColor="@android:color/black"
+            android:textSize="20.0sp" />
+
+        <TextView
+            android:id="@+id/starttime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView1"
+            android:layout_alignBottom="@+id/textView1"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/textView1"
+            android:text=""
+            android:textColor="#777777" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView1"
+            android:layout_below="@+id/imageView2"
+            android:layout_marginTop="20dp"
+            android:text="终止时间:"
+            android:textColor="@android:color/black"
+            android:textSize="20.0sp" />
+
+        <TextView
+            android:id="@+id/endtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView3"
+            android:layout_alignLeft="@+id/starttime"
+            android:text=""
+            android:textColor="#777777" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/xuxian_time" />
+
+        <ImageView
+            android:id="@+id/endimage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/startimage"
+            android:layout_below="@+id/imageView2"
+            android:layout_marginTop="13dp"
+            android:padding="5dp"
+            android:src="@drawable/right_time" />
+
+        <ImageView
+            android:id="@+id/startimage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/RLtitle"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="13dp"
+            android:padding="5dp"
+            android:src="@drawable/right_time" />
+    </RelativeLayout>
+
+</RelativeLayout>

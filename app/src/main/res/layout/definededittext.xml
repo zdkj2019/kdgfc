@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/LLspinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+
+    <RelativeLayout
+        android:id="@+id/spconent"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/LLspinner"
+        android:background="@android:color/white" >
+
+        <RelativeLayout
+            android:id="@+id/RLtitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dlg_title"
+            android:gravity="center_vertical" >
+
+            <Button
+                android:id="@+id/dlg_confirmb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/dlg_sure" />
+
+            <Button
+                android:id="@+id/dlg_cancelb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/dlg_cancel" />
+
+            <TextView
+                android:id="@+id/dlg_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="6dp"
+                android:textColor="@android:color/black"
+                android:textSize="15.0sp"
+                tools:ignore="SelectableText" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/dlg_RL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/RLtitle"
+            android:layout_centerHorizontal="true" >
+
+            <EditText
+                android:id="@+id/inputzhb"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:gravity="center_vertical"
+                android:textColor="@android:color/black"
+                android:hint="工单号"
+                android:textCursorDrawable="@null" >
+            </EditText>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/content_bg"
+    tools:ignore="SelectableText" >
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6.0dip"
+                android:layout_marginRight="6.0dip"
+                android:shrinkColumns="1" >
+
+                <TableRow android:layout_marginTop="6.0dip" >
+
+                    <TextView
+                        style="@style/blacktext"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/_j" />
+                </TableRow>
+
+                <TableRow android:layout_marginTop="4.0dip" >
+
+                    <TextView
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/t_pgdh" />
+
+                    <TextView
+                        android:id="@+id/text_pgdh"
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/t_kdlx" />
+
+                    <TextView
+                        android:id="@+id/text_kdlx"
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/t_tcmc" />
+
+                    <TextView
+                        android:id="@+id/text_tcmc"
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/t_azxq" />
+
+                    <TextView
+                        android:id="@+id/text_azxq"
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/t_xqlh" />
+
+                    <TextView
+                        android:id="@+id/text_xqlh"
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.5dip"
+                    android:layout_marginTop="6.0dip"
+                    android:background="#ffb8b8b8" />
+
+                <TableRow>
+
+                    <TextView
+                        style="@style/blacktext"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="6.0dip"
+                        android:text="客户资料" />
+                </TableRow>
+
+                <TableRow android:layout_marginTop="4.0dip" >
+
+                    <TextView
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/t_username" />
+
+                    <TextView
+                        android:id="@+id/text_username"
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+
+                <!--
+                <TableRow>
+
+                    <TextView
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/t_xb" />
+
+                    <TextView
+                        android:id="@+id/text_xb"
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+                -->
+
+                <TableRow>
+
+                    <TextView
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/t_lxdhr" />
+
+                    <TextView
+                        android:id="@+id/text_lxdhr"
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/t_lxdhr2" />
+
+                    <TextView
+                        android:id="@+id/text_lxdhr2"
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/t_kzzf1" />
+
+                    <TextView
+                        android:id="@+id/text_kzzf1"
+                        style="@style/content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+            </TableLayout>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="15.0dip" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/confirm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bt_sure" />
+
+                <Button
+                    android:id="@+id/cancel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30.0dip"
+                    android:layout_toRightOf="@+id/confirm"
+                    android:background="@drawable/bt_back_selecter" />
+
+                <View
+                    android:layout_width="0.1dp"
+                    android:layout_height="15.0dip"
+                    android:layout_below="@+id/confirm" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

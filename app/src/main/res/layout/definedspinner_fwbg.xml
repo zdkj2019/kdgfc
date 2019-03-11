@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/LLspinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+
+    <RelativeLayout
+        android:id="@+id/spconent"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/LLspinner"
+        android:background="@android:color/white" >
+
+        <RelativeLayout
+            android:id="@+id/RLtitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dlg_title" >
+
+            <Button
+                android:id="@+id/dlg_confirmb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/dlg_sure" />
+
+            <Button
+                android:id="@+id/dlg_cancelb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/dlg_cancel" />
+
+            <TextView
+                android:id="@+id/dlg_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:textColor="@android:color/black"
+                android:textSize="15.0sp"
+                tools:ignore="SelectableText" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/fwbg_rl_0"
+            style="@style/tablerow_sty"
+            android:layout_below="@+id/RLtitle" >
+
+            <CheckBox
+                android:id="@+id/fwbg_bmy_0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/fwbg_rl_1"
+            style="@style/tablerow_sty"
+            android:layout_below="@+id/fwbg_rl_0" >
+
+            <CheckBox
+                android:id="@+id/fwbg_bmy_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/fwbg_rl_2"
+            style="@style/tablerow_sty"
+            android:layout_below="@+id/fwbg_rl_1" >
+
+            <CheckBox
+                android:id="@+id/fwbg_bmy_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false" />
+        </RelativeLayout>
+
+        <View style="@style/view_sty" />
+
+        <RelativeLayout
+            android:id="@+id/fwbg_rl_3"
+            style="@style/tablerow_sty"
+            android:layout_below="@+id/fwbg_rl_2" >
+
+            <TextView
+                android:id="@+id/fwbg_bmy_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="其他："
+                android:textColor="#4d4f4e" />
+
+            <EditText
+                android:id="@+id/fwbg_bmy_4"
+                style="@style/edittext_sty"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@+id/fwbg_bmy_3"
+                android:singleLine="true"
+                android:textColor="#ff0190eb" />
+        </RelativeLayout>
+
+        <View style="@style/view_sty" />
+    </RelativeLayout>
+
+</RelativeLayout>

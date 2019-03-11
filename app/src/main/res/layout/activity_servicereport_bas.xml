@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ededed"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/part"
+        android:orientation="vertical" >
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_pgdh" />
+
+            <TextView
+                android:id="@+id/text_mxh"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_supq" />
+
+            <TextView
+                android:id="@+id/text_supq"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_suqy" />
+
+            <TextView
+                android:id="@+id/text_suqy"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_bzr" />
+
+            <TextView
+                android:id="@+id/text_fy1"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_lxdh" />
+
+            <TextView
+                android:id="@+id/text_lxdh"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_wxaz" />
+
+            <TextView
+                android:id="@+id/text_wxaz"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_gzdl" />
+
+            <TextView
+                android:id="@+id/text_gzdl"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_gzzl" />
+
+            <TextView
+                android:id="@+id/text_gzzl"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_gzxl" />
+
+            <TextView
+                android:id="@+id/text_gzxl"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_clfs" />
+
+            <TextView
+                android:id="@+id/text_clfs"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_xxdz" />
+
+            <TextView
+                android:id="@+id/text_xxdz"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_zsdz" />
+
+            <TextView
+                android:id="@+id/text_zsdz"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_bz" />
+
+            <TextView
+                android:id="@+id/text_bz"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_gzxx" />
+
+            <TextView
+                android:id="@+id/text_jkje"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_mmjpxlh" />
+
+            <TextView
+                android:id="@+id/text_mmjpxlh"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_eposcs" />
+
+            <TextView
+                android:id="@+id/text_eposcs"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_xh" />
+
+            <TextView
+                android:id="@+id/text_eposxh"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_shbh" />
+
+            <TextView
+                android:id="@+id/text_sfbh"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_bddh" />
+
+            <TextView
+                android:id="@+id/text_pddh"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/t_cljg" />
+
+            <TextView
+                android:id="@+id/text_cljg"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/tablerow_sty" >
+
+            <TextView
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="未完工原因:" />
+
+            <TextView
+                android:id="@+id/text_fwyj"
+                style="@style/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

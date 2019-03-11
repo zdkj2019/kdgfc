@@ -1,0 +1,1568 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ml\\values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-si\\values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-be\\values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\application\\Android\\workspace\\kdgfc\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\application\\Android\\workspace\\kdgfc\\app\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "517,518,519,520,521,522,523,526,527,528,529,530",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16612,16652,16688,16731,16777,16820,16866,16986,17020,17065,17113,17170",
+                        "endColumns": "39,35,42,45,42,45,49,33,44,47,56,59",
+                        "endOffsets": "16647,16683,16726,16772,16815,16861,16911,17015,17060,17108,17165,17225"
+                    }
+                },
+                {
+                    "source": "D:\\application\\Android\\workspace\\kdgfc\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "486,487,495",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "14624,14685,15232",
+                        "endColumns": "60,58,41",
+                        "endOffsets": "14680,14739,15269"
+                    }
+                },
+                {
+                    "source": "D:\\application\\Android\\workspace\\kdgfc\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,72,71,75,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,73,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,4,4,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,3397,3345,3501,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3445,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,46,50,57,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,52,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,3439,3391,3554,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3493,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,271,272,274,275,276,277,278,279,280,281,282,284,285,286,287,288,289,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5796,5850,5905,5962,6020,6062,6102,6141,6188,6242,6289,6340,6398,6447,6497,6549,6593,6644,6692,6731,6784,6830,6881,6933,6992,7042,7087,7138,7183,7457,7516,7647,7689,7747,7804,7842,7898,7952,8002,8050,8156,8208,8260,8312,8362,8419,8619,8666,8713,8763,8811,8859,8915,8991,9036,9083,9130,9187,9233,9281,9324,9383,9436,9489,9541,9590,9630",
+                        "endColumns": "53,54,56,57,41,39,38,46,53,46,50,57,48,49,51,43,50,47,38,52,45,50,51,58,49,44,50,44,52,58,59,41,57,56,37,55,53,49,47,47,51,51,51,49,56,52,46,46,49,47,47,55,75,44,46,46,56,45,47,42,58,52,52,51,48,39,40",
+                        "endOffsets": "5845,5900,5957,6015,6057,6097,6136,6183,6237,6284,6335,6393,6442,6492,6544,6588,6639,6687,6726,6779,6825,6876,6928,6987,7037,7082,7133,7178,7231,7511,7571,7684,7742,7799,7837,7893,7947,7997,8045,8093,8203,8255,8307,8357,8414,8467,8661,8708,8758,8806,8854,8910,8986,9031,9078,9125,9182,9228,9276,9319,9378,9431,9484,9536,9585,9625,9666"
+                    }
+                },
+                {
+                    "source": "D:\\application\\Android\\workspace\\kdgfc\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17632,17665,17703,17741,17777,17829,17865,17905,17948,17983,18036,18079,18122,18172,18222,18266,18305,18356,18400,18443,18483,18525,18577,18663,18787,18835,18876,18917,18954,18997,19038,19081,19122,19163,19204,19245,19286,19327,19364,19413,19454,19495,19540,19581,19620,19666,19707,19747,19793,19834,19875,19919,19964,20010,20051,20092,20133,20175,20216,20257,20298,20339,20382,20423,20464,20505,20546,20590,20631,20671,20713,20755,20800,20847,20887,20928,20972,21017,21058,21099,21140,21185,21227,21272,21313,21363,21404,21445,21486,21527,21572,21609,21650,21691,21734,21777,21818,21859,21905,21948,21989,22030,22071,22108,22149,22190,22231,22285,22331,22373,22414,22457,22498,22539,22584,22629,22670,22711,22764,22819,22863,22909,22947,23035,23135",
+                        "endColumns": "32,37,37,35,51,35,39,42,34,52,42,42,49,49,43,38,50,43,42,39,41,51,85,52,47,40,40,36,42,40,42,40,40,40,40,40,40,36,48,40,40,44,40,38,45,40,39,45,40,40,43,44,45,40,40,40,41,40,40,40,40,42,40,40,40,40,43,40,39,41,41,44,46,39,40,43,44,40,40,40,44,41,44,40,49,40,40,40,40,44,36,40,40,42,42,40,40,45,42,40,40,40,36,40,40,40,53,45,41,40,42,40,40,44,44,40,40,52,54,43,45,37,87,99,102",
+                        "endOffsets": "17660,17698,17736,17772,17824,17860,17900,17943,17978,18031,18074,18117,18167,18217,18261,18300,18351,18395,18438,18478,18520,18572,18658,18711,18830,18871,18912,18949,18992,19033,19076,19117,19158,19199,19240,19281,19322,19359,19408,19449,19490,19535,19576,19615,19661,19702,19742,19788,19829,19870,19914,19959,20005,20046,20087,20128,20170,20211,20252,20293,20334,20377,20418,20459,20500,20541,20585,20626,20666,20708,20750,20795,20842,20882,20923,20967,21012,21053,21094,21135,21180,21222,21267,21308,21358,21399,21440,21481,21522,21567,21604,21645,21686,21729,21772,21813,21854,21900,21943,21984,22025,22066,22103,22144,22185,22226,22280,22326,22368,22409,22452,22493,22534,22579,22624,22665,22706,22759,22814,22858,22904,22942,23030,23130,23233"
+                    }
+                },
+                {
+                    "source": "D:\\application\\Android\\workspace\\kdgfc\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "665,666,667,673,674,706,710,716,720,724,736,743,752,758,762,767,771,775,785,793,801,805,809",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "23238,23307,23365,23686,23777,25846,26007,26291,26443,26591,27294,27636,28110,28369,28516,28738,28887,29038,29553,29948,30363,30513,30662",
+                        "endLines": "665,666,672,673,684,709,715,719,723,735,742,751,757,761,766,770,774,784,792,800,804,808,813",
+                        "endColumns": "68,57,12,90,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "23302,23360,23681,23772,24417,26002,26286,26438,26586,27289,27631,28105,28364,28511,28733,28882,29033,29548,29943,30358,30508,30657,30874"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\coordinatorlayout-28.0.0.aar\\b6e68f66d460d36905d09af695e92f80\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "238,703",
+                        "startColumns": "4,4",
+                        "startOffsets": "5735,25701",
+                        "endLines": "238,705",
+                        "endColumns": "60,12",
+                        "endOffsets": "5791,25841"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "268,269,283,291,488,489,490,491,492,493,494,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,515,516,524,525,531,532,533,534,535,536,538,563,685,686,691,694,699,701,702",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7236,7305,8098,8545,14744,14814,14882,14954,15024,15085,15159,15274,15335,15396,15458,15522,15584,15645,15713,15813,15873,15939,16012,16081,16138,16190,16464,16536,16916,16951,17230,17280,17341,17398,17432,17467,17562,18716,24422,24539,24806,25099,25366,25562,25634",
+                        "endLines": "268,269,283,291,488,489,490,491,492,493,494,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,515,516,524,525,531,532,533,534,535,536,538,563,685,689,691,697,699,701,702",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "7300,7363,8151,8614,14809,14877,14949,15019,15080,15154,15227,15330,15391,15453,15517,15579,15640,15708,15808,15868,15934,16007,16076,16133,16185,16247,16531,16607,16946,16981,17275,17336,17393,17427,17462,17497,17627,18782,24534,24735,24911,25295,25490,25629,25696"
+                    }
+                },
+                {
+                    "source": "D:\\application\\Android\\workspace\\kdgfc\\app\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,11,121,126,229,233",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,293,2920,3039,5498,5604",
+                        "endLines": "10,120,125,228,232,237",
+                        "endColumns": "19,19,19,19,19,19",
+                        "endOffsets": "288,2915,3034,5493,5599,5730"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "270,273,290,511,512,513,514,537,690,692,693,698,700",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7368,7576,8472,16252,16305,16358,16411,17502,24740,24916,25038,25300,25495",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "7452,7642,8540,16300,16353,16406,16459,17557,24801,25033,25094,25361,25557"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ne\\values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-sq\\values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-as\\values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-bs\\values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-or\\values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-az\\values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\application\\Android\\workspace\\kdgfc\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "57",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-hu\\values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-et\\values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\application\\Android\\workspace\\kdgfc\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-uk\\values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-lt\\values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-is\\values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\application\\Android\\workspace\\kdgfc\\app\\build\\intermediates\\res\\merged\\debug\\values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\values-uz\\values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
